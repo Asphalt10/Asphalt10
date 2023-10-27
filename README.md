@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Himanshi Panwar</h1>
 <h3 align="center">A passionate Software Developer from India. Currently pursuing BTech Computer Science.</h3>
 
-- 💬 Ask me about **react, java, C++, SQL, HTML, CSS**
+- 💬 Ask me about:  **React, Java, C++, SQL, HTML, CSS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/himanshi-panwar-92710b228/**
+- 📫 How to reach me:  **https://www.linkedin.com/in/himanshi-panwar-92710b228/**
 
-- ⚡ Fun fact **I am kind of funny**
+- ⚡ Fun fact:  **I am kind of funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
